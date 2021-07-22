@@ -1,0 +1,20 @@
+DART PROGRAMMING
+
+1.Printing Hello World
+
+void main() {
+  print("Hello Wolrd");
+    }
+
+2. VARIABLES
+
+void main() {
+  String characterName = "Harry";
+  String characterAge = "66";
+
+  print("There was a guy named ${characterName} and  he was ${characterAge} years old");
+  print("He liked the name ${characterName} but he didnt liked being ${characterAge}");
+  
+}
+
+3.DataTypes 
