@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EshaanDev
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Dart and Flutter
-- 💞️ I’m looking to collaborate on making an app
+- 🌱 I’m currently learning React
+- 💞️ I'm a frontend develper you can E-mail me for hiring me.
 - 📫 How to reach me - email: eshaanshetty032gmail.com
 
 <!---
